@@ -1,0 +1,15 @@
+
+public class Rectangle {
+	private int legnth;
+	private int width;
+
+	
+	public Rectangle(int leghth, int width) {
+		this length = leghth;
+		this width = width;
+	}
+	
+	
+	
+	public String toString
+}

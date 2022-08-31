@@ -1,0 +1,10 @@
+
+public class Rectangle {
+	public static void main(String[] args) {
+		Rectangle rectangle = new Rectangle(int legnth,int width);
+		int length = 10;
+		int width = 15;
+		
+	}
+
+}
